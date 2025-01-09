@@ -1,0 +1,9 @@
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
+prophet
+plotly
+plotly.express
+nbformat
