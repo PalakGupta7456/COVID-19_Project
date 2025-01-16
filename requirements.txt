@@ -7,3 +7,4 @@ prophet
 plotly
 plotly.express
 nbformat
+requests
